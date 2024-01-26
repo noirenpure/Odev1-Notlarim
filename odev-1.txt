@@ -1,0 +1,20 @@
+ilk kod satiri 
+
+void main() {
+	
+	print('Hoşgeldiniz');
+
+var mesajSayisi = 5;
+
+if (mesajSayisi > 0) {
+	print(' Yeni mesaj!');
+}   else {
+	print('Yeni mesaj yok.');
+}
+
+print(mesajSayisi > 0 ? 'Yeni Mesaj!' : 'Yeni mesaj yok.');
+
+print('mesajSayisi adet okunmamış mesaj mevcut!');
+
+
+}
