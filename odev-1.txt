@@ -18,3 +18,7 @@ print('mesajSayisi adet okunmamış mesaj mevcut!');
 
 
 }
+
+
+
+pub key hatasi giderildi ve repo yuklendi.
